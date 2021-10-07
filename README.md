@@ -7,7 +7,7 @@ This list has been superseded by
 
 ## General Remarks
 
-If used in publications (as a whole), please cite this dataset battery as: Gagolewski M., Bartoszuk M., Cena A., Genie: A new, fast, and outlier-resistant hierarchical clustering algorithm, *Information Sciences* **363**, 2016, pp. 8-23, doi:10.1016/j.ins.2016.05.003.
+If used in publications (as a whole), please cite this dataset battery as: Gagolewski M., Bartoszuk M., Cena A., Genie: A new, fast, and outlier-resistant hierarchical clustering algorithm, *Information Sciences* **363**, 2016, pp. 8-23, doi:[10.1016/j.ins.2016.05.003](https://dx.doi.org/10.1016/j.ins.2016.05.003).
 
 In each case, there is a data text file, storing an n * d matrix (n observations in a d dimensional space), and the corresponding labels file which consists of n labels being integers from the set 1,…,k, where k is the number of underlying clusters.
 
@@ -127,8 +127,6 @@ distance, see `hausdorff.cpp` for a few auxiliary Rcpp routines.
 
 Download files:
 
-
-<ul>
 * iris.data.gz (681 B), iris.labels.gz (31 B), n=150, d=4, k=3,
 * iris5.data.gz (520 B), iris5.labels.gz (30 B), n=105, d=4, k=3.
 

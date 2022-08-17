@@ -2,8 +2,8 @@
 
 ## Important Note
 
-This list has been superseded by
-[Benchmark Suite for Clustering Algorithms - Version 1](https://github.com/gagolews/clustering_benchmarks_v1)!
+This list has been superseded by the
+[Benchmark Suite for Clustering Algorithms](https://github.com/gagolews/clustering-benchmarks)!
 
 ## General Remarks
 

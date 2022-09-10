@@ -1,9 +1,9 @@
-# Clustering Benchmark Data [DEPRECATED]
+# A Benchmark Suite for Clustering Algorithms - Version 0 [DEPRECATED]
 
 ## Important Note
 
 This list has been superseded by the
-[Benchmark Suite for Clustering Algorithms](https://github.com/gagolews/clustering-benchmarks)!
+[Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)!
 
 ## General Remarks
 
@@ -146,8 +146,8 @@ Distribution of labels:
 
 ### SIPU Benchmark Data
 
-Speech and Image Processing Unit, School of Computing, University of
-Eastern Finland prepared a list of exemplary benchmarks which is available
+Prof. P. Fränti and his colleagues form the University of
+Eastern Finland prepared a list of example benchmarks, which is available
 [here](http://cs.joensuu.fi/sipu/datasets/). As some of the datasets
 come with no labels, we make them available here in a concise format.
 We chose only the datasets of sizes <= 10000 and such that some of the
@@ -366,11 +366,17 @@ Label distributions:
 
 For more benchmark data, see:
 
-* [Benchmark Suite for Clustering Algorithms - Version 1](https://github.com/gagolews/clustering_benchmarks_v1)
+* [A Framework for Benchmarking Clustering Algorithms](https://clustering-benchmarks.gagolewski.com/)
 
-* [The Fundamental Clustering Problems Suite (FCPS)](https://www.uni-marburg.de/fb12/arbeitsgruppen/datenbionik/data?language_sync=1)
+* [A Benchmark Suite for Clustering Algorithms - Version 1](https://github.com/gagolews/clustering-data-v1)
 
-* [CLUTO Datasets](http://glaros.dtc.umn.edu/gkhome/cluto/cluto/download)
+* [SIPU datasets](http://cs.joensuu.fi/sipu/datasets/) – by P. Fränti (et al.)
+
+* [The Fundamental Clustering Problems Suite (FCPS)](https://www.uni-marburg.de/fb12/arbeitsgruppen/datenbionik/data?language_sync=1) – by A. Ultsch
+
+* [CLUTO Datasets](http://glaros.dtc.umn.edu/gkhome/cluto/cluto/download) by G. Karypis (et al.)
 
 * Graves D., Pedrycz W., Kernel-based fuzzy clustering and fuzzy clustering:
     A comparative experimental study, *Fuzzy Sets and Systems* **161**(4), 2010, pp. 522-543.
+    
+
